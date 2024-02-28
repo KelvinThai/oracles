@@ -4,3 +4,6 @@
 [submodule "supra/lib/openzeppelin-contracts"]
 	path = supra/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "pyth/lib/forge-std"]
+	path = pyth/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
