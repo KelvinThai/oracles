@@ -10,3 +10,6 @@
 [submodule "redStone/lib/forge-std"]
 	path = redStone/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "redStone/lib/redstone-oracles-monorepo"]
+	path = redStone/lib/redstone-oracles-monorepo
+	url = https://github.com/redstone-finance/redstone-oracles-monorepo
