@@ -7,3 +7,6 @@
 [submodule "pyth/lib/forge-std"]
 	path = pyth/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "redStone/lib/forge-std"]
+	path = redStone/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
